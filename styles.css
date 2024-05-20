@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.logo-container {
+    text-align: center;
+}
+
+.logo-container img {
+    width: 720px;
+    height: 280px;
+}
