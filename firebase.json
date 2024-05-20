@@ -1,6 +1,6 @@
 {
     "hosting": {
-        "site": "mightyscape",
+        "site": "mightyscape-7d11a",
         "public": "/",
         "ignore": [
             "firebase.json",
